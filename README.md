@@ -1,7 +1,7 @@
 # Hi I'm Rakesh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2379C2FF&size=25&center=true&vCenter=true&width=500&height=50&lines=Front-End+Developer" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2379C2FF&size=25&center=true&vCenter=true&width=500&height=50&lines=Full-Stack Developer" alt="Typing Animation">
 </div>
 
 ---
