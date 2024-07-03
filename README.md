@@ -1,7 +1,7 @@
 # Hi I'm Rakesh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2379C2FF&size=25&center=true&vCenter=true&width=500&height=50&lines=Front-End-Developer" alt="Typing Animation">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2379C2FF&size=25&center=true&vCenter=true&width=500&height=50&lines=Full-Stack+Developer;MERN-Stack+Developer" alt="Typing Animation">
 </div>
 
 ---
@@ -51,6 +51,10 @@ Used HTML5, CSS3, JavaScript to implement the project.Collaborated in a team of 
 ### [Tista-Method-019](https://github.com/ThakoorRishwanth/Tista-Method-019/tree/master/FrontEnd)
 Developed a motorcycle website featuring a comprehensive catalog of models, including Touring,Cruiser, and Sport.
 Implemented functionalities for dealer location, test ride bookings, customer support, service center information,financing options, and current promotions.
+
+### [Tista-Method-019](https://github.com/Sartik0709/Panasonic-Pioneers_062)
+Developed a digital marketplace, PetPals, to facilitate pet adoptions from shelters and rescues. 
+Browse pet profiles, discover local pet service providers, and access articles on pet care, grooming, training, and health.
 
 ## GitHub Stats
 <img  align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Rakesh-G-R&show_icons=true" alt="stats" />
