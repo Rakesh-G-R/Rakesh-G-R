@@ -16,7 +16,7 @@ What do I do?
 
 ✅ I aspire to work as a programmer.
 
-✅ I'm a fast learner looking for interesting career opportunities in Web as a Front-end Developer .
+✅ I'm a fast learner looking for interesting career opportunities in Web as MERN-Stack Developer .
 
 
 ## Skills
